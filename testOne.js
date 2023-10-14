@@ -1,8 +1,8 @@
 var abx= 123;
 console.log('abx===>'+abx);
 
-function myFn(a,b){
-    return a+b ;
+function myFn(a,c){
+    return a+c ;
 }
 
 var x= myFn(3,4);
